@@ -28,3 +28,8 @@
   width: 62%;
   float: left;
 }
+
+.column2 {
+  width: 31%;
+  float: right;
+}
